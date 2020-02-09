@@ -5,7 +5,7 @@
 #  
 
 
-def main(agrs):
+def main():
 	print("Hello World!")
     return
 
